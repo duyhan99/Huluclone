@@ -3,4 +3,4 @@ A Hulu clone page with html, css and a litle javascript
 
 
 
-Live demo
+Live demo https://huluclonee.netlify.app/
